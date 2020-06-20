@@ -1,6 +1,6 @@
 # A Glimpse of My Digital Humanities Journey 
 
-![](Desktop/Digital_Humanities_1.jpg)
+![](/Users/vinniepanico/Desktop/Digital_Humanities_1.jpg)
 
 
 ### Individual Project Abstract:
