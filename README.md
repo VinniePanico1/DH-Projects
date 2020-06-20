@@ -1,4 +1,4 @@
-# DH-Projects
+# A Glimpse of My Digital Humanities Journey 
 Individual Project Abstract:
 
 Whistleblowers are people within an organization who expose top secret information or activity that they deem illegal or unethical. This study investigates the public sentiment surrounding the act of whistleblowing.  With secret organizations found across the world, the results of this study can apply ubiquitously to inform public officials about future support or backlash for a potential “whistleblow.” This project uses the python library “tweepy” to connect with the Twitter API to then obtain 10,000 tweets regarding whistleblowing. From there, the tweets go through text analysis to take the 50 most common words, which are then displayed using a dataframe, bar plot, and word cloud. The general trend in these 50 most common words came out almost always siding with the encouragement of whistleblowing. These results can not only bring encouragement to whistleblowing and make governments in general more transparent, but also argue for greater citizen involvement in governing with strong diction found siding with more citizen knowledge and state transparency.
