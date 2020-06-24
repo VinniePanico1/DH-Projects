@@ -1,4 +1,4 @@
-# A Glimpse of My Digital Humanities Journey 
+# My Digital Humanities Research
 
 
 <img src="https://user-images.githubusercontent.com/65969450/85213025-98abad00-b31e-11ea-9c72-a9a3767ac04d.jpg" alt="DH" width="450"/>
